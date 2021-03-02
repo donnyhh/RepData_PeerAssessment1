@@ -100,9 +100,9 @@ for(a in 1:17568){
 }
 ```
 
-## Part3 Q3) New dataset that is equal to the original dataset but with the missing data filled in is shown here:
+## Part3 Q3) New dataset that is equal to the original dataset but with the missing data filled in is shown here (only showing head due to large size):
 ```{r}
-q5a
+head(q5a)
 ```
 
 create a table called "q5b" that shows the sum of steps grouped by date, also store the mean and median in q5mean and q5median respectively.
